@@ -9,4 +9,4 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     import minato
 elif bit == '32bit':
-    print('Sapphire is every where')
+    import minato
