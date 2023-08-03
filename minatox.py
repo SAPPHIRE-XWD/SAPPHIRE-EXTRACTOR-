@@ -7,6 +7,6 @@ os.system('xdg-open https://www.facebook.com/profile.php?id=100057149474543')
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import Garryx
+    import minato 
 elif bit == '32bit':
-    import Garryx
+    import minato 
